@@ -6,7 +6,7 @@ If you are new to git and github, to make your first contributions, visit this: 
 If you prefer reading, then these are some of the curated resources you can refer:
 - [Geeks for Geeks: C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/)
 - [CodesDope: Passion Matters, Not Age](https://www.codesdope.com/cpp-introduction/)
-- [TutorialsPoint: Learn C++, Simply Easy Learning](https://www.tutorialspoint.com/cplusplus/index.htm)
+- [TutorialsPoint: Learn C++, Simply Easy Learning](https://www.tutorialspointcom/cplusplus/index.htm)
 - [learncpp: Tutorials to help you master C++](http://www.learncpp.com/)
 - [cplusplus.com: C++ Tutorials](http://www.cplusplus.com/doc/tutorial/)
 
